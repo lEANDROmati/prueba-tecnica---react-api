@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    width: 100%;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+li{
+    margin: 10px    ;
+}
+
